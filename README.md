@@ -6,12 +6,12 @@ Avantika Kothandaraman
 
 EC601 - Product Design - PROJECT 2
 
-Acknowledgements: <br>
+Acknowledgements: 
 Kaggle and the original creators of the Airbnb’s European Cities dataset,
-https://zenodo.org/records/4446043#.Y9Y9ENJBwUE <br>
-ChatGPT for assisting in fine tuning my ideas and debugging the code.
+https://zenodo.org/records/4446043#.Y9Y9ENJBwUE 
+, ChatGPT for assisting in fine tuning my ideas and debugging the code.
 
-Mission Statement: <br>
+Mission Statement: 
 The aim of this product is to help travelers to Paris, particularly foreign travelers, find locations to Airbnbs in various parts of the city. The map would include the location of the 
 Airbnb, the rating, number of bedrooms and the price for 2 nights, 2 people. This is to help travelers easily locate lodging spots without having to rely on potentially false/misleading 
 information. This is done to provide a seamless way to locate, explore and evaluate various Airbnb properties.
