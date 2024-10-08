@@ -1,10 +1,8 @@
-# EC601---Project-2
+# Airbnb Locator in Paris
 
 OPEN SOURCE API “Airbnb Locator in Paris”
 By,
 Avantika Kothandaraman
-
-EC601 - Product Design - PROJECT 2
 
 Acknowledgements: 
 Kaggle and the original creators of the Airbnb’s European Cities dataset,
